@@ -1,0 +1,12 @@
+*{
+    font-family: 'Stoke', serif;
+}
+
+body{
+    background-color: #364253;
+}
+
+h1{
+    color: white;
+    text-shadow: 1px 1px 2px rgb(221, 220, 220), 0 0 1em blue, 0 0 0.2em blue;
+}
